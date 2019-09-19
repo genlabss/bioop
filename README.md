@@ -1,7 +1,7 @@
 # bioop
 Software Engineering based on Biological Oriented Programming
 
-The following gitbook is an open white paper explaining the conceptual ideas for integrating biological principles and lessons into modern software engineering. 
+The following gitbook is an open white paper explaining the conceptual ideas for applying biological principles and lessons to modern software engineering. 
 
 https://app.gitbook.com/@genlabss/s/bioop/
 
